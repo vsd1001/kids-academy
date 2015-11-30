@@ -1,0 +1,90 @@
+body{
+	width: 980px;
+	margin-left: auto;
+
+
+}
+.tulip {
+	float:left;
+	margin-left: 50px;
+}
+.tulip 1{
+	margin-left: 50px;
+
+}
+nav {
+	margin-top: 20px;
+
+	border-right: 1px solid green;
+	width:980px;
+	
+
+}
+.pink{
+	color:orange;
+}
+#zero{
+	font-size: 20px;
+	color:red;
+}
+#red{
+	font-size: 40px;
+	color: green;
+	font-family: comic;
+}
+.jumbotron{
+	/*border:1px solid green*/;
+	clear: both;
+	color: pink;
+	
+}
+.green{
+	color: green;
+	padding-left: 20px;
+}
+#two{
+	padding-left: 20px;
+}
+.box{
+
+	
+	margin:0 auto;
+	background-color: black;
+	width: 980px;
+	border:1px solid green;
+}
+.row {
+	margin-left: auto;
+	border-bottom: 1px solid green;
+	width: 980px;
+	padding-left: 50px;
+	float: left;
+	width: 36%;
+	
+}
+#blue{
+border-top: 1px solid white;
+color: white;
+padding-left:40px;
+}
+.one{
+	color: yellow;
+	padding-left: 20px;
+}
+.new{
+	background-color: green;
+	border-top: 1px solid white;
+}
+.white{
+	color: white;
+	clear: both;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+.foot{
+	font-size: 15px;
+	height: 50px;
+	color: white;
+	border:1px solid white;
+	text-align: center;
+}
